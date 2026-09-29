@@ -10,7 +10,7 @@ The project looks at two questions:
 
 My grandmother lives in Taiwan, and unpredictable periods of heavy rain can make everyday planning more difficult. That made me curious about whether historical weather data could reveal useful patterns around heavy rainfall.
 
-I also wanted to use the project to build on my Python and data-analysis skills by working with real API data, cleaning and organizing it, exploring weather patterns, and testing a simple next-day rainfall-risk model.
+And as an MIS student, I also wanted to use this project to build on my Python and data-analysis skills by working with real API data, cleaning and organizing it, exploring weather patterns, and testing a simple next-day rainfall-risk model.
 
 ## Data Source
 Historical weather data was collected from the Open-Meteo Historical Weather API, which provides hourly weather observations without requiring an API key.
